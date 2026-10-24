@@ -1,11 +1,8 @@
 <div align="center">
-  <img width="640" height="358" alt="qua2r" src="https://github.com/user-attachments/assets/b30977d8-c683-4159-87fd-a1dc0d27b981" /> type=rect&color=0D1117&height=180&section=header&text=Volodymyr&fontSize=48&fontColor=E6EDF3&fontAlignY=42&desc=Student%20Developer%20%7C%20Python%20%26%20Software%20Development&descSize=15&descAlignY=65"
-    width="100%"
-    alt="Profile banner"
-  />
+  <img width="640" height="358" alt="qua2r" src="https://github.com/user-attachments/assets/b30977d8-c683-4159-87fd-a1dc0d27b981" />
 </div>
 
-<h1 align="center">Hi, I'm Volodymyr</h1>
+<h1 align="center">Hi, I'm Mriakulz</h1>
 
 <p align="center">
   Student Developer · Python · Problem Solving
@@ -17,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mriakulz">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub Profile" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -71,10 +68,6 @@ a digital approach to coin discovery and purchasing.
 A 2D platformer developed with Python and Pygame,
 exploring game mechanics, movement, and touch controls.
 
-### Arduino Automation Projects
-Practical experiments with sensors, microcontrollers,
-and automation systems.
-
 ## Current Interests
 
 - Algorithmic problem solving and programming olympiads
@@ -88,19 +81,15 @@ and automation systems.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=76C893&icon_color=8B75B5&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=mriakulz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=76C893&icon_color=8B75B5&text_color=C9D1D9"
     height="160"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=76C893&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriakulz&layout=compact&hide_border=true&bg_color=0D1117&title_color=76C893&text_color=C9D1D9"
     height="160"
     alt="Most used programming languages"
   />
 </p>
 
 ---
-
-<p align="center">
-  <i>Learning through building. Improving through practice.</i>
-</p>
