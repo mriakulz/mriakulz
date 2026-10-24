@@ -1,4 +1,5 @@
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/e81c7135-c6a1-45d2-9f88-c5d31dbe9ac5" />## Hi there 👋
+<img width="640" height="358" alt="qua2r" src="https://github.com/user-attachments/assets/b30977d8-c683-4159-87fd-a1dc0d27b981" />
+## Hi there 👋
 
 <!--
 **mriakulz/mriakulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
