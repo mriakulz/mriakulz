@@ -1,7 +1,5 @@
-<img width="640" height="358" alt="qua2r" src="https://github.com/user-attachments/assets/b30977d8-c683-4159-87fd-a1dc0d27b981" />
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Volodymyr&fontSize=48&fontColor=E6EDF3&fontAlignY=42&desc=Student%20Developer%20%7C%20Python%20%26%20Software%20Development&descSize=15&descAlignY=65"
+  <img width="640" height="358" alt="qua2r" src="https://github.com/user-attachments/assets/b30977d8-c683-4159-87fd-a1dc0d27b981" /> type=rect&color=0D1117&height=180&section=header&text=Volodymyr&fontSize=48&fontColor=E6EDF3&fontAlignY=42&desc=Student%20Developer%20%7C%20Python%20%26%20Software%20Development&descSize=15&descAlignY=65"
     width="100%"
     alt="Profile banner"
   />
