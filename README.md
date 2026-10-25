@@ -64,10 +64,6 @@ and strengthening my understanding of programming fundamentals.
 A project focused on numismatic coins and exploring
 a digital approach to coin discovery and purchasing.
 
-### Python Platformer
-A 2D platformer developed with Python and Pygame,
-exploring game mechanics, movement, and touch controls.
-
 ## Current Interests
 
 - Algorithmic problem solving and programming olympiads
