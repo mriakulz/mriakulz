@@ -64,7 +64,7 @@ and strengthening my understanding of programming fundamentals.
 A project focused on numismatic coins and exploring
 a digital approach to coin discovery and purchasing.
 
-## SKULL
+### SKULL
 
 SKULL is a multi-functional console framework designed for active web reconnaissance, OSINT investigations, and light penetration testing. It focuses on gathering actionable intelligence, analyzing digital assets, and identifying technical security flaws through high-speed asynchronous automation.
 
