@@ -68,7 +68,7 @@ a digital approach to coin discovery and purchasing.
 
 SKULL is a multi-functional console framework designed for active web reconnaissance, OSINT investigations, and light penetration testing. It focuses on gathering actionable intelligence, analyzing digital assets, and identifying technical security flaws through high-speed asynchronous automation.
 
-###ExamTntu
+### ExamTntu
 ExamTntu is a desktop exam system for classroom LANs: AI generates the questions, students take the test in a locked-down kiosk client, and answers are graded automatically. It supports multiple-choice, open questions graded by AI, and code-with-blanks tasks. The teacher monitors every student live and can finish a test or close a student's program remotely.
 
 ## Current Interests
